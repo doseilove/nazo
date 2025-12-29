@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>パスワードの鍵で入れる扉に書いてある文字「ひまわり」にリアクションをしろ！</title>
+  <style>
+    body {
+      background: #fff;
+      color: #000;
+      font-family: monospace;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+
+  パスワードの鍵で入れる扉に書いてある文字「ひまわり」にリアクションをしろ！
+
+</body>
+</html>
+
